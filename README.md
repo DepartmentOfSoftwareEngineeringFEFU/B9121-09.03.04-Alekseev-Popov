@@ -9,6 +9,7 @@
 
 # Клонирование репозитория
 git clone https://github.com/onmitsukido/dialogue_tool/
+
 Рабочая ветка - m-2
 
 # Требования для Backend (Подсистема генерации диалогов и настройки модели)
