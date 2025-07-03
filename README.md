@@ -10,7 +10,7 @@
 # Клонирование репозитория
 git clone https://github.com/onmitsukido/dialogue_tool/
 
-Рабочая ветка - m-2
+Рабочая ветка - m-103
 
 # Требования для Backend (Подсистема генерации диалогов и настройки модели)
 pip 24.3.1
@@ -19,8 +19,8 @@ Visual Studio Build Tools 2022
 cMake
 Windows SDK
 
-скачайте модель -- mistral-7b-v0.1.Q4_K_M.gguf
-ссылка: https://huggingface.co/TheBloke/Mistral-7B-v0.1-GGUF/tree/main
+скачайте модель -- mistral-7b-v0.2.Q5_K_M.gguf
+ссылка: https://huggingface.co/TheBloke/Mistral-7B-v0.1-GGUF/tree/main](https://huggingface.co/dataequity/mistral-7b-instruct-v0.2.Q5_K_M.gguf
 
 
 # Настройка - 
